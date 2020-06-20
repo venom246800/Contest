@@ -1,0 +1,102 @@
+a:java.awt.Point[x=23,y=-46]
+bjava.awt.Point[x=32,y=-45]
+cjava.awt.Point[x=41,y=-39]
+1
+0.11065722117389563 0.5880026035475675
+
+a:java.awt.Point[x=32,y=-45]
+bjava.awt.Point[x=41,y=-39]
+cjava.awt.Point[x=43,y=-34]
+1
+0.5880026035475675 1.1902899496825317
+
+a:java.awt.Point[x=41,y=-39]
+bjava.awt.Point[x=43,y=-34]
+cjava.awt.Point[x=44,y=-22]
+1
+1.1902899496825317 1.4876550949064553
+
+a:java.awt.Point[x=43,y=-34]
+bjava.awt.Point[x=44,y=-22]
+cjava.awt.Point[x=45,y=-4]
+1
+1.4876550949064553 1.5152978215491797
+
+a:java.awt.Point[x=44,y=-22]
+bjava.awt.Point[x=45,y=-4]
+cjava.awt.Point[x=46,y=20]
+1
+1.5152978215491797 1.5291537476963082
+
+a:java.awt.Point[x=45,y=-4]
+bjava.awt.Point[x=46,y=20]
+cjava.awt.Point[x=39,y=44]
+1
+1.5291537476963082 1.8545904360032246
+
+a:java.awt.Point[x=46,y=20]
+bjava.awt.Point[x=39,y=44]
+cjava.awt.Point[x=30,y=47]
+1
+1.8545904360032246 2.819842099193151
+
+a:java.awt.Point[x=39,y=44]
+bjava.awt.Point[x=30,y=47]
+cjava.awt.Point[x=-18,y=48]
+1
+2.819842099193151 3.1207623335535764
+
+a:java.awt.Point[x=30,y=47]
+bjava.awt.Point[x=-18,y=48]
+cjava.awt.Point[x=-36,y=44]
+1
+3.1207623335535764 3.360261599463735
+
+a:java.awt.Point[x=-18,y=48]
+bjava.awt.Point[x=-36,y=44]
+cjava.awt.Point[x=-45,y=31]
+1
+3.360261599463735 4.1068443167797195
+
+a:java.awt.Point[x=-36,y=44]
+bjava.awt.Point[x=-45,y=31]
+cjava.awt.Point[x=-48,y=3]
+1
+4.1068443167797195 4.605653307735554
+
+a:java.awt.Point[x=-45,y=31]
+bjava.awt.Point[x=-48,y=3]
+cjava.awt.Point[x=-48,y=-4]
+1
+4.605653307735554 4.71238898038469
+
+a:java.awt.Point[x=-48,y=3]
+bjava.awt.Point[x=-48,y=-4]
+cjava.awt.Point[x=-48,y=-14]
+0
+4.71238898038469 4.71238898038469
+
+a:java.awt.Point[x=-48,y=-4]
+bjava.awt.Point[x=-48,y=-14]
+cjava.awt.Point[x=-48,y=-39]
+0
+4.71238898038469 4.71238898038469
+
+a:java.awt.Point[x=-48,y=-14]
+bjava.awt.Point[x=-48,y=-39]
+cjava.awt.Point[x=-34,y=-48]
+1
+4.71238898038469 5.711847827345959
+
+a:java.awt.Point[x=-48,y=-39]
+bjava.awt.Point[x=-34,y=-48]
+cjava.awt.Point[x=23,y=-46]
+1
+5.711847827345959 0.035073330533225366
+
+a:java.awt.Point[x=-34,y=-48]
+bjava.awt.Point[x=23,y=-46]
+cjava.awt.Point[x=32,y=-45]
+1
+0.035073330533225366 0.11065722117389563
+

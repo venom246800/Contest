@@ -4,9 +4,111 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-        
-        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PPARTS",
+            "request": "launch",
+            "mainClass": "JUNE20A.PPARTS",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GUESSG",
+            "request": "launch",
+            "mainClass": "JUNE20A.GUESSG",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CONVAIR",
+            "request": "launch",
+            "mainClass": "JUNE20A.CONVAIR",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - orientaion",
+            "request": "launch",
+            "mainClass": "JUNE20A.orientaion",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - compare",
+            "request": "launch",
+            "mainClass": "JUNE20A.compare",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CONTAIN2",
+            "request": "launch",
+            "mainClass": "JUNE20A.CONTAIN2",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_file_generator",
+            "request": "launch",
+            "mainClass": "JUNE20A.test_file_generator",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test_file_generator",
+            "request": "launch",
+            "mainClass": "test_file_generator",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CONTAIN",
+            "request": "launch",
+            "mainClass": "JUNE20A.CONTAIN",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DIFVAL",
+            "request": "launch",
+            "mainClass": "JUNE20A.DIFVAL",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TTUPLE",
+            "request": "launch",
+            "mainClass": "JUNE20A.TTUPLE",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - COVDSMPL",
+            "request": "launch",
+            "mainClass": "JUNE20A.COVDSMPL",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ZCO12002",
+            "request": "launch",
+            "mainClass": "ZCO12002",
+            "projectName": "Contest_91b2a2b9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A25",
+            "request": "launch",
+            "mainClass": "A25",
+            "projectName": "Contest_91b2a2b9"
+        },
         {
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
